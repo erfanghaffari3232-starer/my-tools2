@@ -12,7 +12,7 @@ jobs:
       - name: Package AIA
         run: |
           cd appinventor
-          zip -r ../Erfan_Toolbox_30.aia src assets
+          zip -r ../Erfan_Toolbox_30.aia src assets youngandroidproject
       - uses: actions/upload-artifact@v4
         with:
           name: Erfan_Toolbox_30-aia
