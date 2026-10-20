@@ -1,0 +1,4 @@
+ #| 
+$JSON
+{"YaVersion":232,"Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":30,"AppName":"Erfan Toolbox 30","Title":"Erfan Toolbox 30","Uuid":"0","Sizing":"Responsive","Scrollable":true,"ShowStatusBar":true,"ScreenOrientation":"portrait","BackgroundColor":"&HFF090D18","Theme":"AppTheme.Dark","PrimaryColor":"&HFF111A2B","AccentColor":"&HFF55E6C1","VersionCode":1,"VersionName":"1.0","$Components":[{"$Name":"WebViewer1","$Type":"WebViewer","$Version":10,"Uuid":"1","Width":-2,"Height":-2,"HomeUrl":"https://erfanghaffari3232-starer.github.io/my-tools2/","FollowLinks":true,"UsesLocation":false,"PromptforPermission":false,"IgnoreSslErrors":false,"Visible":true,"WebViewString":"","ZoomEnabled":true}]}}
+|#
